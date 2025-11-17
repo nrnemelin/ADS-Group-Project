@@ -21,3 +21,12 @@ struct Student {
                   << "  Marks: " << marks << std::endl;
     }
 };
+
+/*
+ * ===================================================================
+ * 1. BASELINE SOLUTION (Unsorted Vector)
+ * ===================================================================
+ */
+class BaselineDatabase {
+// ... (all the code for BaselineDatabase) ...
+};
