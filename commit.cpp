@@ -30,3 +30,12 @@ struct Student {
 class BaselineDatabase {
 // ... (all the code for BaselineDatabase) ...
 };
+
+/*
+ * ===================================================================
+ * 2. OPTIMIZED SOLUTION (Binary Search Tree)
+ * ===================================================================
+ */
+class OptimizedDatabase {
+// ... (all the code for OptimizedDatabase, including the Node struct) ...
+};
