@@ -39,3 +39,12 @@ class BaselineDatabase {
 class OptimizedDatabase {
 // ... (all the code for OptimizedDatabase, including the Node struct) ...
 };
+
+/*
+ * -------------------------------------------------------------------
+ * main()
+ * -------------------------------------------------------------------
+ */
+int main() {
+// ... (all the code from your main function) ...
+}
